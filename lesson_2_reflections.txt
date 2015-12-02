@@ -25,3 +25,8 @@ How do the diagrams help you visualize the branch structure?
 
 	They allow me to see where the branches meet and overlap, as well as where they lack
 	reachability.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do?
+
+	The changes can still be seen for both, but we can identify what might be missing from the experimental branch, or what new feature might need adding to, as we merge the branches and run the master.

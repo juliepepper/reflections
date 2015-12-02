@@ -1,0 +1,12 @@
+Add lesson 2 reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	When you initialize it creates untracked files. You need to do it so that you can
+	create commits and modify versions.
+
+How is the staging area different than the working directory and repository? What value do
+you think it offers?
+
+	The staging area gives you the chance to review and reflect on your work before moving
+	it to the working directory and repository. It allows you to pause before making a commit.

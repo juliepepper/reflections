@@ -20,3 +20,8 @@ branches help?
 
 	When you're making slight changes, branches are helpful by keeping the master intact, but allowing
 	for experimental changes that you may want to build on.
+
+How do the diagrams help you visualize the branch structure?
+
+	They allow me to see where the branches meet and overlap, as well as where they lack
+	reachability.

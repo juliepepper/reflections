@@ -30,3 +30,8 @@ What is the result of merging two branches together? Why do we represent it in t
 we do?
 
 	The changes can still be seen for both, but we can identify what might be missing from the experimental branch, or what new feature might need adding to, as we merge the branches and run the master.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Automatic merging is great when the merge is absolute, or clear, manually is better when there is some
+	lack of clarity that would take Git forever to figure out, when you can figure it out more quickly.
